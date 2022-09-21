@@ -29,7 +29,7 @@ I'm Lê, I'm a pedagogy student and a lover for technology. I believe that progr
 
 Eu sou Lê, sou estudante de pedagogia e apaixonada por tecnologia. Acredito que a programação é uma ferramenta essencial nos dias de hoje, e abrem muitas portas para uma grande quantidade de conhecimento, informação e colaboração entre pessoas que desejam ampliar o espectro do que realmente significa programar: Melhorar a vida das pessoas e criar um ambiente inclusivo.
 
-### I'm Currently studying: 
+### Atualmente estou estudando: 
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
