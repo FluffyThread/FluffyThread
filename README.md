@@ -1,7 +1,7 @@
 # EN/PT-BR
 # Hello, welcome to my profile 👋
 
-### Follom me on linkedin as well 
+### Follow me on linkedin as well 
 
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-barros-de-souza-783811240/)
 
