@@ -7,7 +7,7 @@
 
 ---
 
-I'm Lê, I'm a pedagogy student and a lover for technology. I believe that programming is an essential tool in our age, and it opens many doors to a great deal of new knowledge, information and collaboration between peers who want to broad the spectrum of what programming really means: improve people's life and create an inclusive setting.
+I'm Lê, I'm a pedagogy student and have a passion for technology. I believe that programming is an essential tool in our age, and it opens many doors to a great deal of new knowledge, information and collaboration between peers who want to broaden the spectrum of what programming really means: improving people's lives and creating an inclusive setting.
 
 ### I'm Currently studying: 
 
