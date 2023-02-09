@@ -8,7 +8,7 @@
 ---
 
 
-I'm Lê and I'm a pedagogy student with a passion for technology. I believe that programming is an essential for today, providing access to an infinite world of knowledge, information and collaboration between people who seek to improve the lives of others and build a more welcoming environment.
+I'm Lê and I'm a pedagogy student with a passion for technology. I believe that programming is essential for today, providing access to an infinite world of knowledge, information and collaboration between people who seek to improve the lives of others and build a more welcoming environment.
 
 
 I am currently attending a bootcamp at Labenu, where I learned a diverse number of technologies through real projects. Among these activities, I had the opportunity to apply my skills both in server-side software development and in the development of web interfaces.
