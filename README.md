@@ -7,7 +7,8 @@
 
 ---
 
-I'm Lê, I'm a pedagogy student and have a passion for technology. I believe that programming is an essential tool in our age, and it opens many doors to a great deal of new knowledge, information and collaboration between peers who want to broaden the spectrum of what programming really means: to improve people's lives and to create an inclusive setting.
+
+I'm Lê and I'm a pedagogy student with a passion for technology. I believe that programming is an essential for today, providing access to an infinite world of knowledge, information and collaboration between people who seek to improve the lives of others and build a more welcoming environment.
 
 ### I'm Currently studying: 
 
@@ -27,7 +28,7 @@ I'm Lê, I'm a pedagogy student and have a passion for technology. I believe tha
 
 ---
 
-Eu sou Lê, sou estudante de pedagogia e apaixonada por tecnologia. Acredito que a programação é uma ferramenta essencial nos dias de hoje, e abrem muitas portas para uma grande quantidade de conhecimento, informação e colaboração entre pessoas que desejam ampliar o espectro do que realmente significa programar: Melhorar a vida das pessoas e criar um ambiente inclusivo.
+Meu nome é Lê e sou estudante de pedagogia com uma paixão pela tecnologia. Acredito que programação é essencial para os dias de hoje, fornecendo acesso a um mundo infinito de conhecimento, informação e colaboração entre pessoas que buscam aprimorar a vida das pessoas e construir um ambiente mais inclusivo.
 
 ### Atualmente estou estudando: 
 
