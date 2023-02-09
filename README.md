@@ -34,12 +34,17 @@ I'm Lê and I'm a pedagogy student with a passion for technology. I believe that
 
 Meu nome é Lê e sou estudante de pedagogia com uma paixão pela tecnologia. Acredito que programação é essencial para os dias de hoje, fornecendo acesso a um mundo infinito de conhecimento, informação e colaboração entre pessoas que buscam aprimorar a vida das pessoas e construir um ambiente mais inclusivo.
 
-### Atualmente estou estudando: 
+Atualmente, curso um bootcamp na Labenu, onde aprendi um número diversificado de tecnologias por meio de projetos reais. Dentre essas atividades, tive a oportunidade de aplicar minhas competências tanto no desenvolvimento de software do lado do servidor quanto no desenvolvimento de interfaces web.
+
+### Em Front-end aprendi: 
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Atualmente estou estudando em Back-end:
+
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
