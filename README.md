@@ -7,11 +7,9 @@
 
 ---
 
+Hi there! I'm Dara, a pedagogy student with a strong passion for technology. I firmly believe that programming is crucial in today's world, enabling access to boundless knowledge, information, and collaboration between individuals who aspire to enhance people's lives and foster a more inclusive community.
 
-I'm Lê and I'm a pedagogy student with a passion for technology. I believe that programming is essential for today, providing access to an infinite world of knowledge, information and collaboration between people who seek to improve the lives of others and build a more welcoming environment.
-
-
-I am currently attending a bootcamp at Labenu, where I learned a diverse number of technologies through real projects. Among these activities, I had the opportunity to apply my skills both in server-side software development and in the development of web interfaces.
+Currently, I am attending a bootcamp at Labenu where I have gained exposure to a diverse range of technologies by working on real-world projects. During my time here, I have had the opportunity to hone my skills in both server-side software development and web interface design.
 
 
 
@@ -39,10 +37,9 @@ I am currently attending a bootcamp at Labenu, where I learned a diverse number 
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-barros-de-souza-783811240/)
 
 ---
+Me chamo Dara e sou estudante de pedagogia com grande interesse em tecnologia. Acredito que a programação seja fundamental nos dias de hoje, pois oferece acesso a um vasto mundo de conhecimento, informação e colaboração entre pessoas que buscam melhorar a vida de outras e construir um ambiente mais inclusivo.
 
-Meu nome é Lê e sou estudante de pedagogia com uma paixão pela tecnologia. Acredito que programação é essencial para os dias de hoje, fornecendo acesso a um mundo infinito de conhecimento, informação e colaboração entre pessoas que buscam aprimorar a vida das pessoas e construir um ambiente mais inclusivo.
-
-Atualmente, curso um bootcamp na Labenu, onde aprendi um número diversificado de tecnologias por meio de projetos reais. Dentre essas atividades, tive a oportunidade de aplicar minhas competências tanto no desenvolvimento de software do lado do servidor quanto no desenvolvimento de interfaces web.
+Atualmente, estou cursando um bootcamp na Labenu, onde aprendi diversas tecnologias por meio de projetos reais. Durante essa experiência, pude aprimorar minhas habilidades tanto no desenvolvimento de software no lado do servidor quanto na criação de interfaces web.
 
 ### Em Front-end aprendi as seguintes tecnologias: 
 
