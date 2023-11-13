@@ -44,9 +44,11 @@ I am currently pursuing studies in Data Science using Python, expanding my knowl
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-barros-de-souza-783811240/)
 
 ---
-Me chamo Dara e sou estudante de pedagogia com grande interesse em tecnologia. Acredito que a programação seja fundamental nos dias de hoje, pois oferece acesso a um vasto mundo de conhecimento, informação e colaboração entre pessoas que buscam melhorar a vida de outras e construir um ambiente mais inclusivo.
+Me chamo Luna e sou estudante de pedagogia com grande interesse em tecnologia. Acredito que a programação seja fundamental nos dias de hoje, pois oferece acesso a um vasto mundo de conhecimento, informação e colaboração entre pessoas que buscam melhorar a vida de outras e construir um ambiente mais inclusivo.
 
-Atualmente, estou cursando um bootcamp na Labenu, onde aprendi diversas tecnologias por meio de projetos reais. Durante essa experiência, pude aprimorar minhas habilidades tanto no desenvolvimento de software no lado do servidor quanto na criação de interfaces web.
+Anteriormente, cursei um bootcamp na Labenu, onde aprendi diversas tecnologias por meio de projetos reais. Durante essa experiência, pude aprimorar minhas habilidades tanto no desenvolvimento de software no lado do servidor quanto na criação de interfaces web.
+
+Atualmente, estou estudando Ciência de Dados em Python, ampliando meu conhecimento com tecnologias que fazem sentido para mim.
 
 ### Em Front-end aprendi as seguintes tecnologias: 
 
@@ -55,11 +57,17 @@ Atualmente, estou cursando um bootcamp na Labenu, onde aprendi diversas tecnolog
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Atualmente estou estudando em Back-end:
+### Em Back-end aprendi as seguintes tecnologias:
 
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### Extra:
+
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 
 
