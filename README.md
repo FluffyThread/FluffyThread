@@ -9,7 +9,9 @@
 
 Hi there! I'm Luna, a pedagogy student with a strong passion for technology. I firmly believe that programming is crucial in today's world, enabling access to boundless knowledge, information, and collaboration between individuals who aspire to enhance people's lives and foster a more inclusive community.
 
-Currently, I am attending a bootcamp at Labenu where I have gained exposure to a diverse range of technologies by working on real-world projects. During my time here, I have had the opportunity to hone my skills in both server-side software development and web interface design.
+Previously, I attended a bootcamp at Labenu where I gained exposure to a diverse range of technologies by working on real-world projects. During my time there, I had the opportunity to hone my skills in both server-side software development and web interface design.
+
+I am currently pursuing studies in Data Science using Python, expanding my knowledge with technologies that align with my goals.
 
 
 
@@ -20,12 +22,17 @@ Currently, I am attending a bootcamp at Labenu where I have gained exposure to a
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### I'm currently studying in Back-end:
+### In Back-end I learned the following technologies:
 
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Extra:
+
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 
 ---
 ---
