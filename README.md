@@ -7,7 +7,7 @@
 
 ---
 
-Hi there! I'm Dara, a pedagogy student with a strong passion for technology. I firmly believe that programming is crucial in today's world, enabling access to boundless knowledge, information, and collaboration between individuals who aspire to enhance people's lives and foster a more inclusive community.
+Hi there! I'm Luna, a pedagogy student with a strong passion for technology. I firmly believe that programming is crucial in today's world, enabling access to boundless knowledge, information, and collaboration between individuals who aspire to enhance people's lives and foster a more inclusive community.
 
 Currently, I am attending a bootcamp at Labenu where I have gained exposure to a diverse range of technologies by working on real-world projects. During my time here, I have had the opportunity to hone my skills in both server-side software development and web interface design.
 
